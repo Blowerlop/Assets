@@ -1,0 +1,646 @@
+###############################################
+OpenGameArt.org automatically generated credits file notice:
+
+THIS FILE IS FOR INFORMATIONAL PURPOSES ONLY.  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL OPENGAMEART.ORG BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS FILE OR THE INFORMATION IN IT.
+
+In plain English:  This credits file is automatically generated to the best of our ability, but it remains YOUR RESPONSIBILITY as a game developer to ensure that the art you use is attributed properly.  That is, we can't be held liable even if all of the information in this file is completely wrong.   In addition, some of the art listed in this file may have SPECIAL ATTRIBUTION INSTRUCTIONS that ask that you credit the artist in a particular way, rather than a verbatim copyright notice.  In those cases, you will probably need to hand-edit this file to comply with their instructions.  In some older art, attribution instructions may be included in the art description itself.  Please check the art page to be sure.
+
+We recommend that you delete this notice when you're sure the information here is correct and the attribution instructions are properly followed.  If you aren't the game developer and you're seeing this notice here in the credits, it probably means that the developer hasn't properly verified the attribution information contained herein even though it said they were supposed to do it right on the page where they downloaded this file.  
+###############################################
+
+Title:
+    Heroic Demise [Updated Version]
+
+Author:
+    matthew.pablo
+
+URL:
+    http://opengameart.org/content/heroic-demise-updated-version
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Heroic Demise (New).mp3
+
+----------------------------------------
+
+Title:
+    Spirit Waltz
+
+Author:
+    HorrorPen
+
+URL:
+    http://opengameart.org/content/spirit-waltz
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Spirit Waltz.mp3
+    * Spirit Waltz.ogg
+    * Spirit Waltz.mid
+
+----------------------------------------
+
+Title:
+    Carnival Rides
+
+Author:
+    Écrivain
+
+URL:
+    http://opengameart.org/content/carnival-rides
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * carnivalrides.ogg
+    * carnivalrides.mscz_.zip
+
+----------------------------------------
+
+Title:
+    No More Magic
+
+Author:
+    HorrorPen
+
+URL:
+    http://opengameart.org/content/no-more-magic
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * No More Magic.mp3
+    * No More Magic.ogg
+    * No More Magic.mid
+
+----------------------------------------
+
+Title:
+    Red Curtain
+
+Author:
+    HorrorPen
+
+URL:
+    http://opengameart.org/content/red-curtain
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Red Curtain.mp3
+    * Red Curtain.ogg
+    * Red Curtain.mid
+    * Red Curtain Fade Out End.ogg
+
+----------------------------------------
+
+Title:
+    Soft Mysterious Harp Loop
+
+Author:
+    VWolfdog
+
+URL:
+    http://opengameart.org/content/soft-mysterious-harp-loop
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Harp.mp3
+    * Harp.ogg
+
+----------------------------------------
+
+Title:
+    A Regular Battle
+
+Author:
+    Telaron
+
+URL:
+    http://opengameart.org/content/a-regular-battle
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * regular battle.mp3
+
+----------------------------------------
+
+Title:
+    Radakan - Mist Forest
+
+Author:
+    Janne Hanhisuanto
+
+URL:
+    http://opengameart.org/content/radakan-mist-forest
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * radakan - mist forest.mp3
+
+----------------------------------------
+
+Title:
+    Tavern
+
+Author:
+    yd
+
+URL:
+    http://opengameart.org/content/tavern-0
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * Tavern.ogg
+    * Tavern.zip
+
+----------------------------------------
+
+Title:
+    Arabesque
+
+Author:
+    brainiac256
+
+URL:
+    http://opengameart.org/content/arabesque
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+File(s):
+    * Arabesque.mp3
+
+----------------------------------------
+
+Title:
+    The King&#039;s Crowning
+
+Author:
+    Telaron
+
+URL:
+    http://opengameart.org/content/the-kings-crowning
+
+License(s):
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * the_kings_crowning_v1.mp3
+
+----------------------------------------
+
+Title:
+    Generic Strings
+
+Author:
+    thisismyusername
+
+URL:
+    http://opengameart.org/content/generic-strings
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * generic strings.mp3
+
+----------------------------------------
+
+Title:
+    Theme Menu
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    http://opengameart.org/content/theme-menu
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Theme Menu.mp3
+    * Menu_loop.mp3
+
+----------------------------------------
+
+Title:
+    Trading It For The Memories
+
+Author:
+    jimbeamdiablo
+
+URL:
+    http://opengameart.org/content/trading-it-for-the-memories
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Music "Trading It For The Memories" by Mike Jackson
+
+File(s):
+    * Trading.mp3
+
+----------------------------------------
+
+Title:
+    Water Temple
+
+Author:
+    el-corleo
+
+URL:
+    http://opengameart.org/content/water-temple
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Eliot Corley
+
+File(s):
+    * Water Temple.mp3
+
+----------------------------------------
+
+Title:
+    Quiet Melodies In The Dark
+
+Author:
+    jimbeamdiablo
+
+URL:
+    http://opengameart.org/content/quiet-melodies-in-the-dark
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Quiet Melodies In The Dark by Mike Jackson.
+
+File(s):
+    * Quiet Melodies in the Dark.mp3
+
+----------------------------------------
+
+Title:
+    Toes and Water ~
+
+Author:
+    Circlerun
+
+URL:
+    http://opengameart.org/content/toes-and-water
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Please credit me. I go by Circlerun or Aaron Talbert.
+
+File(s):
+    * Toes and Water.mp3
+
+----------------------------------------
+
+Title:
+    Steeps of Destiny
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    http://opengameart.org/content/steeps-of-destiny
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Steeps of Destiny.mp3
+
+----------------------------------------
+
+Title:
+    Free Music Pack
+
+Author:
+    tricksntraps
+
+URL:
+    http://opengameart.org/content/free-music-pack
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    No need to give me any credit, but it would put a nice smile on my face if you do. My name is: Alexander Ehlers
+
+File(s):
+    * Alexander Ehlers - Free Music Pack.zip
+
+----------------------------------------
+
+Title:
+    Ireland&#039;s Coast (Game Edition - LIVE PLAYERS)
+
+Author:
+    matthew.pablo
+
+URL:
+    http://opengameart.org/content/irelands-coast-game-edition-live-players
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Please read this page for attribution instructions: http://www.matthewpablo.com/services
+
+File(s):
+    * Ireland's Coast (Video Game Soundtrack -Live).mp3
+
+----------------------------------------
+
+Title:
+    Without
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    http://opengameart.org/content/without
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Without.mp3
+
+----------------------------------------
+
+Title:
+    Decision
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    http://opengameart.org/content/decision
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Decision.mp3
+
+----------------------------------------
+
+Title:
+    Tower of Great Lords
+
+Author:
+    Alexander Zhelanov
+
+URL:
+    http://opengameart.org/content/tower-of-great-lords
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Ala Flair.ogg
+
+----------------------------------------
+
+Title:
+    Journey to the East Rocks
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    http://opengameart.org/content/journey-to-the-east-rocks
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * Journey to the East Rocks.ogg
+
+----------------------------------------
+
+Title:
+    Ruinous Laments
+
+Author:
+    el-corleo
+
+URL:
+    http://opengameart.org/content/ruinous-laments
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Eliot Corley
+
+File(s):
+    * Ruinous Laments(5.6).mp3
+    * Ruinous Laments(sans percussion).mp3
+
+----------------------------------------
+
+Title:
+    The Field Of Dreams
+
+Author:
+    pauliuw
+
+URL:
+    http://opengameart.org/content/the-field-of-dreams
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * the_field_of_dreams.mp3
+    * source.7z
+
+----------------------------------------
+
+Title:
+    Heroic Minority
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    http://opengameart.org/content/heroic-minority
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Героическая минорная.mp3
+
+----------------------------------------
+
+Title:
+    Victoriana Loop
+
+Author:
+    BossLevelVGM
+
+URL:
+    http://opengameart.org/content/victoriana-loop
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Music by Joe Baxter-Webb (BossLevelVGM)
+
+File(s):
+    * Victoriana Loop.mp3
+    * Victoriana Loop.mp3
+
+----------------------------------------
+
+Title:
+    Gray Trip
+
+Author:
+    HorrorPen
+
+URL:
+    http://opengameart.org/content/gray-trip
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Gray Trip.mp3
+    * Gray Trip.ogg
+
+----------------------------------------
+
+Title:
+    Underwater Theme
+
+Author:
+    Doppelganger
+
+URL:
+    http://opengameart.org/content/underwater-theme
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Composed by: Cleyton R. Xavier - http://opengameart.org/users/doppelganger
+
+File(s):
+    * Cleyton RX - Underwater.mp3
+    * Cleyton RX - Underwater.wav
+
+----------------------------------------
+
+Title:
+    Melodic & gentle ambient music
+
+Author:
+    PetterTheSturgeon
+
+URL:
+    http://opengameart.org/content/melodic-gentle-ambient-music
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Dear Diary.mp3
+
+----------------------------------------
+
+Title:
+    Haunted Woods (Horror Drone)
+
+Author:
+    Michael Klier
+
+URL:
+    http://opengameart.org/content/haunted-woods-horror-drone
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * Haunted Woods.zip
+
+----------------------------------------
+
+Title:
+    Old Manor (More music inside)
+
+Author:
+    Alexandr Zhelanov
+
+URL:
+    http://opengameart.org/content/old-manor-more-music-inside
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+
+File(s):
+    * 01.Welcome to old manor.mp3
+    * 02.Tragedy alley.mp3
+    * 03.Rooms_.mp3
+    * 04.Histories and tales.mp3
+    * 05.Aristocracy.mp3
+    * 06.Winter waltz.mp3
+    * 07.Scary night.mp3
+
+----------------------------------------
+
+
